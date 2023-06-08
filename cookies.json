@@ -1,0 +1,106 @@
+[
+  {
+    "name": "NETSCAPE_LIVEWIRE.rut",
+    "value": "16659618",
+    "path": "/",
+    "domain": ".sii.cl",
+    "secure": true,
+    "expires": -1
+  },
+  {
+    "name": "NETSCAPE_LIVEWIRE.rutm",
+    "value": "16659618",
+    "path": "/",
+    "domain": ".sii.cl",
+    "secure": true,
+    "expires": -1
+  },
+  {
+    "name": "NETSCAPE_LIVEWIRE.dv",
+    "value": "1",
+    "path": "/",
+    "domain": ".sii.cl",
+    "secure": true,
+    "expires": -1
+  },
+  {
+    "name": "NETSCAPE_LIVEWIRE.dvm",
+    "value": "1",
+    "path": "/",
+    "domain": ".sii.cl",
+    "secure": true,
+    "expires": -1
+  },
+  {
+    "name": "NETSCAPE_LIVEWIRE.clave",
+    "value": "SI7HgGr5TdkYcSIYZ8HWbI007k",
+    "path": "/",
+    "domain": ".sii.cl",
+    "secure": true,
+    "expires": -1
+  },
+  {
+    "name": "NETSCAPE_LIVEWIRE.mac",
+    "value": "5nfruqn2uklchpqdi357ece4bg",
+    "path": "/",
+    "domain": ".sii.cl",
+    "secure": true,
+    "expires": -1
+  },
+  {
+    "name": "NETSCAPE_LIVEWIRE.exp",
+    "value": "20230603140218",
+    "path": "/",
+    "domain": ".sii.cl",
+    "secure": true,
+    "expires": -1
+  },
+  {
+    "name": "NETSCAPE_LIVEWIRE.sec",
+    "value": "0000",
+    "path": "/",
+    "domain": ".sii.cl",
+    "secure": true,
+    "expires": -1
+  },
+  {
+    "name": "NETSCAPE_LIVEWIRE.lms",
+    "value": "120",
+    "path": "/",
+    "domain": ".sii.cl",
+    "secure": true,
+    "expires": -1
+  },
+  {
+    "name": "TOKEN",
+    "value": "G2LYO6IEDOEC6",
+    "path": "/",
+    "domain": ".sii.cl",
+    "secure": true,
+    "expires": -1
+  },
+  {
+    "name": "CSESSIONID",
+    "value": "G2LYO6IEDOEC6",
+    "path": "/",
+    "domain": ".sii.cl",
+    "secure": true,
+    "expires": -1
+  },
+  {
+    "name": "RUT_NS",
+    "value": "16659618",
+    "path": "/",
+    "domain": ".sii.cl",
+    "secure": false,
+    "expires": -1
+  },
+  {
+    "name": "DV_NS",
+    "value": "1",
+    "path": "/",
+    "domain": ".sii.cl",
+    "secure": false,
+    "expires": -1
+  }
+]

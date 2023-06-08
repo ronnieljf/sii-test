@@ -1,0 +1,22 @@
+{
+  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "Accept-Encoding": "gzip, deflate, br",
+  "Accept-Language": "es-419,es;q=0.9",
+  "Cache-Control": "max-age=0",
+  "Connection": "keep-alive",
+  "Content-Length": "127",
+  "Content-Type": "application/x-www-form-urlencoded",
+  "Cookie": "cert_Origin=www.sii.cl; s_cc=true; NETSCAPE_LIVEWIRE.rut=16659618; NETSCAPE_LIVEWIRE.rutm=16659618; NETSCAPE_LIVEWIRE.dv=1; NETSCAPE_LIVEWIRE.dvm=1; NETSCAPE_LIVEWIRE.clave=SI7HgGr5TdkYcSIYZ8HWbI007k; NETSCAPE_LIVEWIRE.mac=5rdcj5smas0o3j2ff66acqrhmi; NETSCAPE_LIVEWIRE.exp=20230603134517; NETSCAPE_LIVEWIRE.sec=0000; NETSCAPE_LIVEWIRE.lms=120; TOKEN=JX507NHZOOABJ; CSESSIONID=JX507NHZOOABJ; NETSCAPE_LIVEWIRE.locexp=Sat%2C%2003%20Jun%202023%2017%3A45%3A17%20GMT; s_sq=siiprd%3D%2526c.%2526a.%2526activitymap.%2526page%253Dhttps%25253A%25252F%25252Fwww.sii.cl%25252Fservicios_online%25252F1039-1184.html%2526link%253DTimbraje%252520electr%2525C3%2525B3nico%252520%252528%25252A%252529%2526region%253DheadingConsultas%2526.activitymap%2526.a%2526.c%2526pid%253Dhttps%25253A%25252F%25252Fwww.sii.cl%25252Fservicios_online%25252F1039-1184.html%2526oid%253Dhttps%25253A%25252F%25252Fwww.sii.cl%25252Fservicios_online%25252F1039-1184.html%252523collapseConsultas%2526ot%253DA; dtCookie=v_4_srv_41_sn_325FF3513906E6048C6F23912C6F9EAD_perc_100000_ol_0_mul_1_app-3Aea7c4b59f27d43eb_0",
+  "Host": "palena.sii.cl",
+  "Origin": "https://palena.sii.cl",
+  "Referer": "https://palena.sii.cl/cvc_cgi/dte/of_solicita_folios_dcto",
+  "Sec-Ch-Ua": "\"Not.A/Brand\";v=\"8\", \"Chromium\";v=\"114\", \"Google Chrome\";v=\"114\"",
+  "Sec-Ch-Ua-Mobile": "?0",
+  "Sec-Ch-Ua-Platform": "Windows",
+  "Sec-Fetch-Dest": "document",
+  "Sec-Fetch-Mode": "navigate",
+  "Sec-Fetch-Site": "same-origin",
+  "Sec-Fetch-User": "?1",
+  "Upgrade-Insecure-Requests": "1",
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+}
